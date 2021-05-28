@@ -1,0 +1,406 @@
+MIME-Version: 1.0
+Date: Fri, 28 May 2021 21:29:53 +0530
+Message-ID: <CAA_yn=EPkYpz-DR+62MpQFXjXGM5tBJC+oFFZhBDqiJFyWt5qQ@mail.gmail.com>
+Subject: 
+From: ANIL THOMAS <anilthomasp2001@gmail.com>
+To: ANIL THOMAS <anilthomasp2001@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000bf7a8205c365f0bd"
+
+--000000000000bf7a8205c365f0bd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=3D"utf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <title>repl.it</title>
+    <link href=3D"
+https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+rel=3D"stylesheet"
+integrity=3D"sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7=
++AMvyTG2x"
+crossorigin=3D"anonymous">
+    <link rel=3D"stylesheet" href=3D"
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+integrity=3D"sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gF=
+oRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=3D=3D"
+crossorigin=3D"anonymous" referrerpolicy=3D"no-referrer" />
+  </head>
+  <body>
+
+   <!-- Navbar -->
+     <nav class=3D"navbar sticky-top navbar-expand-lg navbar-dark bg-danger=
+">
+  <div class=3D"container-fluid">
+    <a class=3D"navbar-brand text-white" href=3D"#">Abhiram AV</a>
+    <button class=3D"navbar-toggler" type=3D"button" data-bs-toggle=3D"coll=
+apse"
+data-bs-target=3D"#navbarSupportedContent"
+aria-controls=3D"navbarSupportedContent" aria-expanded=3D"false"
+aria-label=3D"Toggle navigation">
+      <span class=3D"navbar-toggler-icon"></span>
+    </button>
+    <div class=3D"collapse navbar-collapse" id=3D"navbarSupportedContent">
+      <ul class=3D"navbar-nav me-auto mb-2 mb-lg-0">
+        <li class=3D"nav-item">
+          <a class=3D"nav-link active" aria-current=3D"page"
+href=3D"#hero">Home</a>
+        </li>
+        <li class=3D"nav-item">
+          <a class=3D"nav-link" href=3D"#skills">My Skills</a>
+        </li>
+        <li class=3D"nav-item">
+          <a class=3D"nav-link" href=3D"#works">My Works</a>
+        </li>
+        <li class=3D"nav-item">
+          <a class=3D"nav-link" href=3D"#contact">Contact Me</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main class=3D"container mt-3">
+  <section id=3D"hero" class=3D"d-flex justify-content-sm-centre
+justify-content-md-evenly align-items-center flex-column-reverse gap-3
+flex-md-row">
+    <!-- Hero -->
+  <div class=3D"d-flex justify-content-sm-centre align-items-center
+flex-column flex-md-column justify-content-md-start align-item-md-start">
+    <h5>Hi!=F0=9F=91=8B</h5>
+    <h1>I'm Abhiram AV </h1>
+    <p>A fullstack web developer!</p>
+    <button class=3D"btn btn-danger btn-sm">My cool resume=F0=9F=98=8E</but=
+ton>
+  </div>
+
+  <div class=3D"d-md-none w-50 h-50">
+    <img src=3D"
+https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcQw2iMTKL4JKh2Rc0f2R=
+tU8-2QQr-Jj-9TVTA&usqp=3DCAU"
+alt=3D"Abhiram AV " class=3D"w-100 h-100 rounded-circle shadow">
+  </div>
+  <div class=3D"d-none d-md-block w-25 h-25">
+    <img src=3D"
+https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcQw2iMTKL4JKh2Rc0f2R=
+tU8-2QQr-Jj-9TVTA&usqp=3DCAU"
+alt=3D" Abhiram AV" class=3D"w-100 h-100 rounded-circle shadow">
+
+    </div>
+  </section>
+  <section id=3D"skills" class=3D"mt-5 p-4 ">
+  <!-- My Skills -->
+  <h1 class=3D"text-danger text-center">My Skill Set</h1>
+<div class=3D"mt-4 d-md-none d-flex justify-content-evenly">
+
+  <i class=3D"fab fa-html5 fa-3x" style=3D"color:#f4470b;"></i>
+  <i class=3D"fab fa-css3-alt fa-3x text-primary"></i>
+  <i class=3D"fab fa-bootstrap fa-3x" style=3D"color:#730fef"></i>
+</div>
+<div class=3D"mt-4 d-none d-md-flex justify-content-evenly">
+  <i class=3D"fab fa-html5 fa-7x" style=3D"color:#f4470b;"></i>
+  <i class=3D"fab fa-css3-alt fa-7x text-primary"></i>
+  <i class=3D"fab fa-bootstrap fa-7x" style=3D"color:#730fef"></i>
+</div>
+  </section >
+  <section id=3D"works" class=3D"mt-4 p-4 ">
+  <!-- My Works -->
+  <h1 class=3D"text-danger text-center"> My Works</h1>
+  <div class=3D"d-flex flex-column flex-md-row justify-content-md-evenly
+gap-3">
+  <div class=3D"card mb-2">
+  <img
+  src=3D"
+https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA=
+3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&ixlib=3Drb-1.2.1&=
+auto=3Dformat&fit=3Dcrop&w=3D500&q=3D60"
+class=3D"card-img-top" alt=3D"...">
+  <div class=3D"card-body">
+    <h5 class=3D"card-title">Portfolia Website</h5>
+    <p class=3D"card-text">Built an amazing responsive website with
+boostrap.</p>
+    <a href=3D"#" class=3D"btn btn-dark">View Source <i class=3D"fab
+fa-github"></i></a>
+  </div>
+</div>
+<div class=3D"card mb-2">
+  <img
+  src=3D"
+https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA=
+3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&ixlib=3Drb-1.2.1&=
+auto=3Dformat&fit=3Dcrop&w=3D500&q=3D60"
+class=3D"card-img-top" alt=3D"...">
+  <div class=3D"card-body">
+    <h5 class=3D"card-title">Portfolia Website</h5>
+    <p class=3D"card-text">Built an amazing responsive website with
+boostrap.</p>
+    <a href=3D"#" class=3D"btn btn-dark">View Source <i class=3D"fab
+fa-github"></i></a>
+  </div>
+</div>
+<div class=3D"card mb-2">
+  <img
+  src=3D"
+https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA=
+3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&ixlib=3Drb-1.2.1&=
+auto=3Dformat&fit=3Dcrop&w=3D500&q=3D60"
+class=3D"card-img-top" alt=3D"...">
+  <div class=3D"card-body">
+    <h5 class=3D"card-title">Portfolia Website</h5>
+    <p class=3D"card-text">Built an amazing responsive website with
+boostrap.</p>
+    <a href=3D"#" class=3D"btn btn-dark">View Source <i class=3D"fab
+fa-github"></i></a>
+  </div>
+</div>
+
+</section>
+  <section id=3D"contact" class=3D"mt-4 py-4">
+  <!-- Contact Me -->
+ <h1 class=3D"text-danger text-center"> Contact Form</h1>
+ <div class=3D"row">
+   <div class=3D"col-sm col-md-8">
+   <form>
+<div class=3D"mb-3">
+  <label for=3D"exampleFormControlInput1" class=3D"form-label">Email
+address</label>
+  <input type=3D"email" required class=3D"form-control"
+id=3D"exampleFormControlInput1" placeholder=3D"name@example.com">
+</div>
+<div class=3D"mb-3">
+  <label for=3D"exampleFormControlTextarea1" class=3D"form-label">Your
+Message</label>
+  <textarea class=3D"form-control" id=3D"exampleFormControlTextarea1" requi=
+red
+placeholder=3D"Enter your amazing message!" rows=3D"3"></textarea>
+</div>
+<button type=3D"Submit" class=3D"btn btn-danger">
+ Submit
+  </button>
+   </form>
+   </div>
+   <div class=3D" col-sm col-md-4"
+   <div class=3D"mt-3">
+     <h4><i class=3D"fas fa-at text-danger">
+abhiramkk520@gmail.com</i></h4>
+     <button type=3D"button" class=3D"btn btn-link">
+    <a href=3D"https://github.com/abhiram527"><i class=3D"fab
+fa-github"></i></a>
+    </button>
+     </div>
+     </div>
+  </section>
+</main>
+ <script src=3D"
+https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.j=
+s"
+integrity=3D"sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9=
+Bn9Plx0x4"
+crossorigin=3D"anonymous"></script>
+  </body>
+</html>
+
+--000000000000bf7a8205c365f0bd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">&lt;!DOCTYPE html&gt;<div dir=3D"auto">&lt;html&gt;</div>=
+<div dir=3D"auto">=C2=A0 &lt;head&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =
+&lt;meta charset=3D&quot;utf-8&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=
+=A0 &lt;meta name=3D&quot;viewport&quot; content=3D&quot;width=3Ddevice-wid=
+th&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;title&gt;<a href=3D"h=
+ttp://repl.it">repl.it</a>&lt;/title&gt;</div><div dir=3D"auto">=C2=A0 =C2=
+=A0 &lt;link href=3D&quot;<a href=3D"https://cdn.jsdelivr.net/npm/bootstrap=
+@5.0.1/dist/css/bootstrap.min.css">https://cdn.jsdelivr.net/npm/bootstrap@5=
+.0.1/dist/css/bootstrap.min.css</a>&quot; rel=3D&quot;stylesheet&quot; inte=
+grity=3D&quot;sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl=
+7+AMvyTG2x&quot; crossorigin=3D&quot;anonymous&quot;&gt;</div><div dir=3D"a=
+uto">=C2=A0 =C2=A0 &lt;link rel=3D&quot;stylesheet&quot; href=3D&quot;<a hr=
+ef=3D"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.mi=
+n.css">https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.m=
+in.css</a>&quot; integrity=3D&quot;sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1=
+BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=3D=3D&quot; crossorig=
+in=3D&quot;anonymous&quot; referrerpolicy=3D&quot;no-referrer&quot; /&gt;</=
+div><div dir=3D"auto">=C2=A0 &lt;/head&gt;</div><div dir=3D"auto">=C2=A0 &l=
+t;body&gt;</div><div dir=3D"auto"><br></div><div dir=3D"auto">=C2=A0 =C2=A0=
+&lt;!-- Navbar --&gt;=C2=A0</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0&lt;=
+nav class=3D&quot;navbar sticky-top navbar-expand-lg navbar-dark bg-danger&=
+quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;div class=3D&quot;container-flu=
+id&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;a class=3D&quot;navba=
+r-brand text-white&quot; href=3D&quot;#&quot;&gt;Abhiram AV&lt;/a&gt;</div>=
+<div dir=3D"auto">=C2=A0 =C2=A0 &lt;button class=3D&quot;navbar-toggler&quo=
+t; type=3D&quot;button&quot; data-bs-toggle=3D&quot;collapse&quot; data-bs-=
+target=3D&quot;#navbarSupportedContent&quot; aria-controls=3D&quot;navbarSu=
+pportedContent&quot; aria-expanded=3D&quot;false&quot; aria-label=3D&quot;T=
+oggle navigation&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 &lt;=
+span class=3D&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;</div><div dir=
+=3D"auto">=C2=A0 =C2=A0 &lt;/button&gt;</div><div dir=3D"auto">=C2=A0 =C2=
+=A0 &lt;div class=3D&quot;collapse navbar-collapse&quot; id=3D&quot;navbarS=
+upportedContent&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 &lt;u=
+l class=3D&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;&gt;</div><div dir=3D"=
+auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;li class=3D&quot;nav-item&quot;&gt;</=
+div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;a class=3D&quo=
+t;nav-link active&quot; aria-current=3D&quot;page&quot; href=3D&quot;#hero&=
+quot;&gt;Home&lt;/a&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+&lt;/li&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;li class=
+=3D&quot;nav-item&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 &lt;a class=3D&quot;nav-link&quot; href=3D&quot;#skills&quot;&gt=
+;My Skills&lt;/a&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt=
+;/li&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;li class=3D=
+&quot;nav-item&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 &lt;a class=3D&quot;nav-link&quot; href=3D&quot;#works&quot;&gt;My =
+Works&lt;/a&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;/li&=
+gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;li class=3D&quot=
+;nav-item&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 &lt;a class=3D&quot;nav-link&quot; href=3D&quot;#contact&quot;&gt;Conta=
+ct Me&lt;/a&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;/li&=
+gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =C2=A0 &lt;/ul&gt;</div><div dir=
+=3D"auto">=C2=A0 =C2=A0 &lt;/div&gt;</div><div dir=3D"auto">=C2=A0 &lt;/div=
+&gt;</div><div dir=3D"auto">&lt;/nav&gt;</div><div dir=3D"auto"><br></div><=
+div dir=3D"auto">&lt;main class=3D&quot;container mt-3&quot;&gt;</div><div =
+dir=3D"auto">=C2=A0 &lt;section id=3D&quot;hero&quot; class=3D&quot;d-flex =
+justify-content-sm-centre justify-content-md-evenly align-items-center flex=
+-column-reverse gap-3 flex-md-row&quot;&gt;</div><div dir=3D"auto">=C2=A0 =
+=C2=A0 &lt;!-- Hero --&gt;</div><div dir=3D"auto">=C2=A0 &lt;div class=3D&q=
+uot;d-flex justify-content-sm-centre align-items-center  flex-column flex-m=
+d-column justify-content-md-start align-item-md-start&quot;&gt;</div><div d=
+ir=3D"auto">=C2=A0 =C2=A0 &lt;h5&gt;Hi!=F0=9F=91=8B&lt;/h5&gt;</div><div di=
+r=3D"auto">=C2=A0 =C2=A0 &lt;h1&gt;I&#39;m Abhiram AV &lt;/h1&gt;</div><div=
+ dir=3D"auto">=C2=A0 =C2=A0 &lt;p&gt;A fullstack web developer!&lt;/p&gt;</=
+div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;button class=3D&quot;btn btn-danger=
+ btn-sm&quot;&gt;My cool resume=F0=9F=98=8E&lt;/button&gt;</div><div dir=3D=
+"auto">=C2=A0 &lt;/div&gt;</div><div dir=3D"auto">=C2=A0=C2=A0</div><div di=
+r=3D"auto">=C2=A0 &lt;div class=3D&quot;d-md-none w-50 h-50&quot;&gt;</div>=
+<div dir=3D"auto">=C2=A0 =C2=A0 &lt;img src=3D&quot;<a href=3D"https://encr=
+ypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcQw2iMTKL4JKh2Rc0f2RtU8-2QQr-Jj-=
+9TVTA&amp;usqp=3DCAU">https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd=
+9GcQw2iMTKL4JKh2Rc0f2RtU8-2QQr-Jj-9TVTA&amp;usqp=3DCAU</a>&quot; alt=3D&quo=
+t;Abhiram AV &quot; class=3D&quot;w-100 h-100 rounded-circle shadow&quot;&g=
+t;</div><div dir=3D"auto">=C2=A0 &lt;/div&gt;=C2=A0</div><div dir=3D"auto">=
+=C2=A0 &lt;div class=3D&quot;d-none d-md-block w-25 h-25&quot;&gt;</div><di=
+v dir=3D"auto">=C2=A0 =C2=A0 &lt;img src=3D&quot;<a href=3D"https://encrypt=
+ed-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcQw2iMTKL4JKh2Rc0f2RtU8-2QQr-Jj-9TV=
+TA&amp;usqp=3DCAU">https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9Gc=
+Qw2iMTKL4JKh2Rc0f2RtU8-2QQr-Jj-9TVTA&amp;usqp=3DCAU</a>&quot; alt=3D&quot; =
+Abhiram AV&quot; class=3D&quot;w-100 h-100 rounded-circle shadow&quot;&gt;<=
+/div><div dir=3D"auto"><br></div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;/div&g=
+t;=C2=A0 =C2=A0</div><div dir=3D"auto">=C2=A0 &lt;/section&gt;</div><div di=
+r=3D"auto">=C2=A0 &lt;section id=3D&quot;skills&quot;  class=3D&quot;mt-5  =
+p-4 &quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;!-- My Skills --&gt;</div>=
+<div dir=3D"auto">=C2=A0 &lt;h1 class=3D&quot;text-danger text-center&quot;=
+&gt;My Skill Set&lt;/h1&gt;</div><div dir=3D"auto">&lt;div class=3D&quot;mt=
+-4 d-md-none d-flex justify-content-evenly&quot;&gt;</div><div dir=3D"auto"=
+>=C2=A0=C2=A0</div><div dir=3D"auto">=C2=A0 &lt;i class=3D&quot;fab fa-html=
+5 fa-3x&quot; style=3D&quot;color:#f4470b;&quot;&gt;&lt;/i&gt;=C2=A0</div><=
+div dir=3D"auto">=C2=A0 &lt;i class=3D&quot;fab fa-css3-alt fa-3x text-prim=
+ary&quot;&gt;&lt;/i&gt;</div><div dir=3D"auto">=C2=A0 &lt;i class=3D&quot;f=
+ab fa-bootstrap fa-3x&quot; style=3D&quot;color:#730fef&quot;&gt;&lt;/i&gt;=
+</div><div dir=3D"auto">&lt;/div&gt;</div><div dir=3D"auto">&lt;div class=
+=3D&quot;mt-4 d-none d-md-flex justify-content-evenly&quot;&gt;</div><div d=
+ir=3D"auto">=C2=A0 &lt;i class=3D&quot;fab fa-html5 fa-7x&quot; style=3D&qu=
+ot;color:#f4470b;&quot;&gt;&lt;/i&gt;=C2=A0</div><div dir=3D"auto">=C2=A0 &=
+lt;i class=3D&quot;fab fa-css3-alt fa-7x text-primary&quot;&gt;&lt;/i&gt;</=
+div><div dir=3D"auto">=C2=A0 &lt;i class=3D&quot;fab fa-bootstrap fa-7x&quo=
+t; style=3D&quot;color:#730fef&quot;&gt;&lt;/i&gt;</div><div dir=3D"auto">&=
+lt;/div&gt;</div><div dir=3D"auto">=C2=A0 &lt;/section &gt;</div><div dir=
+=3D"auto">=C2=A0 &lt;section id=3D&quot;works&quot; class=3D&quot;mt-4  p-4=
+ &quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;!-- My Works --&gt;=C2=A0</di=
+v><div dir=3D"auto">=C2=A0 &lt;h1 class=3D&quot;text-danger text-center&quo=
+t;&gt; My Works&lt;/h1&gt;</div><div dir=3D"auto">=C2=A0 &lt;div class=3D&q=
+uot;d-flex  flex-column  flex-md-row  justify-content-md-evenly gap-3&quot;=
+&gt;</div><div dir=3D"auto">=C2=A0 &lt;div class=3D&quot;card mb-2&quot;&gt=
+;</div><div dir=3D"auto">=C2=A0 &lt;img=C2=A0</div><div dir=3D"auto">=C2=A0=
+ src=3D&quot;<a href=3D"https://images.unsplash.com/photo-1480506132288-68f=
+7705954bd?ixid=3DMnwxMjA3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA=
+%3D%3D&amp;ixlib=3Drb-1.2.1&amp;auto=3Dformat&amp;fit=3Dcrop&amp;w=3D500&am=
+p;q=3D60">https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=
+=3DMnwxMjA3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&amp;ixl=
+ib=3Drb-1.2.1&amp;auto=3Dformat&amp;fit=3Dcrop&amp;w=3D500&amp;q=3D60</a>&q=
+uot; class=3D&quot;card-img-top&quot; alt=3D&quot;...&quot;&gt;</div><div d=
+ir=3D"auto">=C2=A0 &lt;div class=3D&quot;card-body&quot;&gt;</div><div dir=
+=3D"auto">=C2=A0 =C2=A0 &lt;h5 class=3D&quot;card-title&quot;&gt;Portfolia =
+Website&lt;/h5&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;p class=3D&quot=
+;card-text&quot;&gt;Built an amazing responsive website with boostrap.&lt;/=
+p&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;a href=3D&quot;#&quot; class=
+=3D&quot;btn btn-dark&quot;&gt;View Source &lt;i class=3D&quot;fab fa-githu=
+b&quot;&gt;&lt;/i&gt;&lt;/a&gt;</div><div dir=3D"auto">=C2=A0 &lt;/div&gt;<=
+/div><div dir=3D"auto">&lt;/div&gt;</div><div dir=3D"auto">&lt;div class=3D=
+&quot;card mb-2&quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;img=C2=A0</div>=
+<div dir=3D"auto">=C2=A0 src=3D&quot;<a href=3D"https://images.unsplash.com=
+/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA3fDB8MHxzZWFyY2h8NjR8fHRlY2=
+hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&amp;ixlib=3Drb-1.2.1&amp;auto=3Dformat&amp;f=
+it=3Dcrop&amp;w=3D500&amp;q=3D60">https://images.unsplash.com/photo-1480506=
+132288-68f7705954bd?ixid=3DMnwxMjA3fDB8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58=
+MHwwfDB8fA%3D%3D&amp;ixlib=3Drb-1.2.1&amp;auto=3Dformat&amp;fit=3Dcrop&amp;=
+w=3D500&amp;q=3D60</a>&quot; class=3D&quot;card-img-top&quot; alt=3D&quot;.=
+..&quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;div class=3D&quot;card-body&=
+quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;h5 class=3D&quot;card-ti=
+tle&quot;&gt;Portfolia Website&lt;/h5&gt;</div><div dir=3D"auto">=C2=A0 =C2=
+=A0 &lt;p class=3D&quot;card-text&quot;&gt;Built an amazing responsive webs=
+ite with boostrap.&lt;/p&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;a hre=
+f=3D&quot;#&quot; class=3D&quot;btn btn-dark&quot;&gt;View Source &lt;i cla=
+ss=3D&quot;fab fa-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;</div><div dir=3D"aut=
+o">=C2=A0 &lt;/div&gt;</div><div dir=3D"auto">&lt;/div&gt;</div><div dir=3D=
+"auto">&lt;div class=3D&quot;card mb-2&quot;&gt;</div><div dir=3D"auto">=C2=
+=A0 &lt;img=C2=A0</div><div dir=3D"auto">=C2=A0 src=3D&quot;<a href=3D"http=
+s://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA3fDB=
+8MHxzZWFyY2h8NjR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&amp;ixlib=3Drb-1.2.1&=
+amp;auto=3Dformat&amp;fit=3Dcrop&amp;w=3D500&amp;q=3D60">https://images.uns=
+plash.com/photo-1480506132288-68f7705954bd?ixid=3DMnwxMjA3fDB8MHxzZWFyY2h8N=
+jR8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fA%3D%3D&amp;ixlib=3Drb-1.2.1&amp;auto=3Dfor=
+mat&amp;fit=3Dcrop&amp;w=3D500&amp;q=3D60</a>&quot; class=3D&quot;card-img-=
+top&quot; alt=3D&quot;...&quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;div c=
+lass=3D&quot;card-body&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;h=
+5 class=3D&quot;card-title&quot;&gt;Portfolia Website&lt;/h5&gt;</div><div =
+dir=3D"auto">=C2=A0 =C2=A0 &lt;p class=3D&quot;card-text&quot;&gt;Built an =
+amazing responsive website with boostrap.&lt;/p&gt;</div><div dir=3D"auto">=
+=C2=A0 =C2=A0 &lt;a href=3D&quot;#&quot; class=3D&quot;btn btn-dark&quot;&g=
+t;View Source &lt;i class=3D&quot;fab fa-github&quot;&gt;&lt;/i&gt;&lt;/a&g=
+t;</div><div dir=3D"auto">=C2=A0 &lt;/div&gt;</div><div dir=3D"auto">&lt;/d=
+iv&gt;</div><div dir=3D"auto"><br></div><div dir=3D"auto">&lt;/section&gt;<=
+/div><div dir=3D"auto">=C2=A0 &lt;section id=3D&quot;contact&quot; class=3D=
+&quot;mt-4 py-4&quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;!-- Contact Me =
+--&gt;</div><div dir=3D"auto">=C2=A0&lt;h1 class=3D&quot;text-danger text-c=
+enter&quot;&gt; Contact Form&lt;/h1&gt;</div><div dir=3D"auto">=C2=A0&lt;di=
+v class=3D&quot;row&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0&lt;div c=
+lass=3D&quot;col-sm col-md-8&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0=
+&lt;form&gt;</div><div dir=3D"auto">&lt;div class=3D&quot;mb-3&quot;&gt;</d=
+iv><div dir=3D"auto">=C2=A0 &lt;label for=3D&quot;exampleFormControlInput1&=
+quot; class=3D&quot;form-label&quot;&gt;Email address&lt;/label&gt;</div><d=
+iv dir=3D"auto">=C2=A0 &lt;input type=3D&quot;email&quot; required class=3D=
+&quot;form-control&quot; id=3D&quot;exampleFormControlInput1&quot; placehol=
+der=3D&quot;<a href=3D"mailto:name@example.com">name@example.com</a>&quot;&=
+gt;</div><div dir=3D"auto">&lt;/div&gt;</div><div dir=3D"auto">&lt;div clas=
+s=3D&quot;mb-3&quot;&gt;</div><div dir=3D"auto">=C2=A0 &lt;label for=3D&quo=
+t;exampleFormControlTextarea1&quot; class=3D&quot;form-label&quot;&gt;Your =
+Message&lt;/label&gt;</div><div dir=3D"auto">=C2=A0 &lt;textarea class=3D&q=
+uot;form-control&quot; id=3D&quot;exampleFormControlTextarea1&quot; require=
+d placeholder=3D&quot;Enter your amazing message!&quot; rows=3D&quot;3&quot=
+;&gt;&lt;/textarea&gt;</div><div dir=3D"auto">&lt;/div&gt;</div><div dir=3D=
+"auto">&lt;button type=3D&quot;Submit&quot; class=3D&quot;btn btn-danger&qu=
+ot;&gt;</div><div dir=3D"auto">=C2=A0Submit=C2=A0</div><div dir=3D"auto">=
+=C2=A0 &lt;/button&gt;=C2=A0</div><div dir=3D"auto">=C2=A0 =C2=A0&lt;/form&=
+gt;</div><div dir=3D"auto">=C2=A0 =C2=A0&lt;/div&gt;</div><div dir=3D"auto"=
+>=C2=A0 =C2=A0&lt;div class=3D&quot; col-sm col-md-4&quot;=C2=A0</div><div =
+dir=3D"auto">=C2=A0 =C2=A0&lt;div class=3D&quot;mt-3&quot;&gt;</div><div di=
+r=3D"auto">=C2=A0 =C2=A0 =C2=A0&lt;h4&gt;&lt;i class=3D&quot;fas fa-at text=
+-danger&quot;&gt;</div><div dir=3D"auto"><a href=3D"mailto:abhiramkk520@gma=
+il.com">abhiramkk520@gmail.com</a>&lt;/i&gt;&lt;/h4&gt;</div><div dir=3D"au=
+to">=C2=A0 =C2=A0 =C2=A0&lt;button type=3D&quot;button&quot; class=3D&quot;=
+btn btn-link&quot;&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;a href=3D&q=
+uot;<a href=3D"https://github.com/abhiram527">https://github.com/abhiram527=
+</a>&quot;&gt;&lt;i class=3D&quot;fab fa-github&quot;&gt;&lt;/i&gt;&lt;/a&g=
+t;</div><div dir=3D"auto">=C2=A0 =C2=A0 &lt;/button&gt;</div><div dir=3D"au=
+to">=C2=A0 =C2=A0 =C2=A0&lt;/div&gt;</div><div dir=3D"auto">=C2=A0 =C2=A0 =
+=C2=A0&lt;/div&gt;</div><div dir=3D"auto">=C2=A0 &lt;/section&gt;</div><div=
+ dir=3D"auto">&lt;/main&gt;</div><div dir=3D"auto">=C2=A0&lt;script src=3D&=
+quot;<a href=3D"https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootst=
+rap.bundle.min.js">https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/boo=
+tstrap.bundle.min.js</a>&quot; integrity=3D&quot;sha384-gtEjrD/SeCtmISkJkNU=
+aaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4&quot; crossorigin=3D&quot;ano=
+nymous&quot;&gt;&lt;/script&gt;</div><div dir=3D"auto">=C2=A0 &lt;/body&gt;=
+</div><div dir=3D"auto">&lt;/html&gt;</div></div>
+
+--000000000000bf7a8205c365f0bd--
